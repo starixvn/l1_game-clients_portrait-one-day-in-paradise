@@ -1,30 +1,20 @@
 {
-"skeleton": {
-	"hash": "wR/rfF1LYyRXlk8xMrIOryUtPs4",
-	"spine": "3.8.99",
-	"x": -87.72,
-	"y": -87.37,
-	"width": 175.09,
-	"height": 175.09,
-	"images": "./image/",
-	"audio": ""
-},
+"skeleton": { "hash": "+Dc5fK1OrNghzk9RELwhciGMrh0", "spine": "3.8.99", "x": -75.42, "y": -75, "width": 150.42, "height": 150.42 },
 "bones": [
 	{ "name": "root", "x": -0.42, "y": 0.42 },
-	{ "name": "all-null", "parent": "root", "scaleX": 1.164, "scaleY": 1.164 },
-	{ "name": "OpticalFlares", "parent": "all-null" },
-	{ "name": "WaterSplash-1", "parent": "all-null" },
-	{ "name": "WaterSplash-2", "parent": "all-null" },
-	{ "name": "WaterSplash-3", "parent": "all-null" },
-	{ "name": "circle", "parent": "all-null" },
-	{ "name": "WaterDrop", "parent": "all-null" },
-	{ "name": "WaterSplash-4", "parent": "all-null", "x": 0.42, "y": -0.42 },
-	{ "name": "particle", "parent": "all-null", "x": 0.42, "y": -0.42 },
-	{ "name": "WaterDrop_single", "parent": "all-null", "length": 100, "rotation": -90 },
-	{ "name": "WaterDrop_single2", "parent": "all-null", "length": 100, "rotation": -90 },
-	{ "name": "WaterDrop_single3", "parent": "all-null", "length": 100, "rotation": -90 },
-	{ "name": "WaterDrop_single4", "parent": "all-null", "length": 100, "rotation": -90 },
-	{ "name": "s4_Surfboard", "parent": "all-null" },
+	{ "name": "OpticalFlares", "parent": "root" },
+	{ "name": "WaterSplash-1", "parent": "root" },
+	{ "name": "WaterSplash-2", "parent": "root" },
+	{ "name": "WaterSplash-3", "parent": "root" },
+	{ "name": "circle", "parent": "root" },
+	{ "name": "WaterDrop", "parent": "root" },
+	{ "name": "WaterSplash-4", "parent": "root", "x": 0.42, "y": -0.42 },
+	{ "name": "particle", "parent": "root", "x": 0.42, "y": -0.42 },
+	{ "name": "WaterDrop_single", "parent": "root", "length": 100, "rotation": -90 },
+	{ "name": "WaterDrop_single2", "parent": "root", "length": 100, "rotation": -90 },
+	{ "name": "WaterDrop_single3", "parent": "root", "length": 100, "rotation": -90 },
+	{ "name": "WaterDrop_single4", "parent": "root", "length": 100, "rotation": -90 },
+	{ "name": "s4_Surfboard", "parent": "root" },
 	{ "name": "s4_Surfboard_highlight", "parent": "s4_Surfboard", "length": 116.43, "rotation": 89.61, "x": -0.26, "y": -45.13 }
 ],
 "slots": [
@@ -200,52 +190,52 @@
 				"circle": { "width": 150, "height": 150 }
 			},
 			"particle/particle_00": {
-				"particle/particle_00": { "width": 150, "height": 150 }
+				"particle/particle_00": { "width": 110, "height": 110 }
 			},
 			"particle/particle_01": {
-				"particle/particle_01": { "width": 150, "height": 150 }
+				"particle/particle_01": { "width": 110, "height": 110 }
 			},
 			"particle/particle_02": {
-				"particle/particle_02": { "width": 150, "height": 150 }
+				"particle/particle_02": { "width": 110, "height": 110 }
 			},
 			"particle/particle_03": {
-				"particle/particle_03": { "width": 150, "height": 150 }
+				"particle/particle_03": { "width": 110, "height": 110 }
 			},
 			"particle/particle_04": {
-				"particle/particle_04": { "width": 150, "height": 150 }
+				"particle/particle_04": { "width": 110, "height": 110 }
 			},
 			"particle/particle_05": {
-				"particle/particle_05": { "width": 150, "height": 150 }
+				"particle/particle_05": { "width": 110, "height": 110 }
 			},
 			"particle/particle_06": {
-				"particle/particle_06": { "width": 150, "height": 150 }
+				"particle/particle_06": { "width": 110, "height": 110 }
 			},
 			"particle/particle_07": {
-				"particle/particle_07": { "width": 150, "height": 150 }
+				"particle/particle_07": { "width": 110, "height": 110 }
 			},
 			"particle/particle_08": {
-				"particle/particle_08": { "width": 150, "height": 150 }
+				"particle/particle_08": { "width": 110, "height": 110 }
 			},
 			"particle/particle_09": {
-				"particle/particle_09": { "width": 150, "height": 150 }
+				"particle/particle_09": { "width": 110, "height": 110 }
 			},
 			"particle/particle_10": {
-				"particle/particle_10": { "width": 150, "height": 150 }
+				"particle/particle_10": { "width": 110, "height": 110 }
 			},
 			"particle/particle_11": {
-				"particle/particle_11": { "width": 150, "height": 150 }
+				"particle/particle_11": { "width": 110, "height": 110 }
 			},
 			"particle/particle_12": {
-				"particle/particle_12": { "width": 150, "height": 150 }
+				"particle/particle_12": { "width": 110, "height": 110 }
 			},
 			"particle/particle_13": {
-				"particle/particle_13": { "width": 150, "height": 150 }
+				"particle/particle_13": { "width": 110, "height": 110 }
 			},
 			"particle/particle_14": {
-				"particle/particle_14": { "width": 150, "height": 150 }
+				"particle/particle_14": { "width": 110, "height": 110 }
 			},
 			"particle/particle_15": {
-				"particle/particle_15": { "width": 150, "height": 150 }
+				"particle/particle_15": { "width": 110, "height": 110 }
 			},
 			"s4_Surfboard": {
 				"s4_Surfboard": { "x": 45.13, "y": 0.05, "rotation": -89.61, "width": 110, "height": 110 }

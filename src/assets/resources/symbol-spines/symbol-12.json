@@ -1,81 +1,100 @@
 {
-"skeleton": {
-	"hash": "yt/HbF95Th8GaQ4QXWrl0P3A9Nc",
-	"spine": "3.8.99",
-	"x": -64.02,
-	"y": -64.02,
-	"width": 128.04,
-	"height": 128.04,
-	"images": "./image/",
-	"audio": ""
-},
+"skeleton": { "hash": "HJnUwZuR3TQt8L9to3FfrSglZDs", "spine": "3.8.99", "x": -55, "y": -55, "width": 110, "height": 110 },
 "bones": [
-	{ "name": "root" },
-	{ "name": "all-null", "parent": "root", "scaleX": 1.164, "scaleY": 1.164 }
+	{ "name": "root" }
 ],
 "slots": [
-	{ "name": "Multiplier_bg", "bone": "all-null", "attachment": "Multiplier_bg" },
-	{ "name": "shell_open/shell_open_00", "bone": "all-null", "attachment": "shell_open/shell_open_00" },
-	{ "name": "shell_open/shell_open_01", "bone": "all-null", "attachment": "shell_open/shell_open_01" },
-	{ "name": "shell_open/shell_open_02", "bone": "all-null", "attachment": "shell_open/shell_open_02" },
-	{ "name": "shell_open/shell_open_03", "bone": "all-null", "attachment": "shell_open/shell_open_03" },
-	{ "name": "shell_open/shell_open_04", "bone": "all-null", "attachment": "shell_open/shell_open_04" },
-	{ "name": "shell_open/shell_open_05", "bone": "all-null", "attachment": "shell_open/shell_open_05" },
-	{ "name": "shell_open/shell_open_06", "bone": "all-null", "attachment": "shell_open/shell_open_06" },
-	{ "name": "shell_open/shell_open_07", "bone": "all-null", "attachment": "shell_open/shell_open_07" },
-	{ "name": "shell_open/shell_open_08", "bone": "all-null", "attachment": "shell_open/shell_open_08" },
-	{ "name": "shell_open/shell_open_09", "bone": "all-null", "attachment": "shell_open/shell_open_09" },
-	{ "name": "shell_open/shell_open_10", "bone": "all-null", "attachment": "shell_open/shell_open_10" },
-	{ "name": "shell_open/shell_open_11", "bone": "all-null", "attachment": "shell_open/shell_open_11" },
-	{ "name": "shell_open/shell_open_12", "bone": "all-null", "attachment": "shell_open/shell_open_12" },
-	{ "name": "shell_open/shell_open_13", "bone": "all-null", "attachment": "shell_open/shell_open_13" },
-	{ "name": "shell_open/shell_open_14", "bone": "all-null", "attachment": "shell_open/shell_open_14" },
-	{ "name": "shell_open/shell_open_15", "bone": "all-null", "attachment": "shell_open/shell_open_15" },
-	{ "name": "shell_open/shell_open_16", "bone": "all-null", "attachment": "shell_open/shell_open_16" },
-	{ "name": "shell_open/shell_open_17", "bone": "all-null", "attachment": "shell_open/shell_open_17" },
-	{ "name": "shell_open/shell_open_18", "bone": "all-null", "attachment": "shell_open/shell_open_18" },
-	{ "name": "shell_open/shell_open_19", "bone": "all-null", "attachment": "shell_open/shell_open_19" },
-	{ "name": "shell_open/shell_open_20", "bone": "all-null", "attachment": "shell_open/shell_open_20" },
-	{ "name": "shell_open/shell_open_21", "bone": "all-null", "attachment": "shell_open/shell_open_21" },
-	{ "name": "shell_open/shell_open_22", "bone": "all-null", "attachment": "shell_open/shell_open_22" },
-	{ "name": "shell_open/shell_open_23", "bone": "all-null", "attachment": "shell_open/shell_open_23" },
-	{ "name": "shell_open/shell_open_24", "bone": "all-null", "attachment": "shell_open/shell_open_24" },
-	{ "name": "shell_open/shell_open_25", "bone": "all-null", "attachment": "shell_open/shell_open_25" },
-	{ "name": "shell_open/shell_open_26", "bone": "all-null", "attachment": "shell_open/shell_open_26" },
-	{ "name": "shell_open/shell_open_27", "bone": "all-null", "attachment": "shell_open/shell_open_27" },
-	{ "name": "shell_open/shell_open_28", "bone": "all-null", "attachment": "shell_open/shell_open_28" },
-	{ "name": "shell_open/shell_open_29", "bone": "all-null", "attachment": "shell_open/shell_open_29" },
-	{ "name": "pearl_purple/pearl_purple_00", "bone": "all-null", "attachment": "pearl_purple/pearl_purple_00" },
-	{ "name": "pearl_purple/pearl_purple_01", "bone": "all-null", "attachment": "pearl_purple/pearl_purple_01" },
-	{ "name": "pearl_purple/pearl_purple_02", "bone": "all-null", "attachment": "pearl_purple/pearl_purple_02" },
-	{ "name": "pearl_purple/pearl_purple_03", "bone": "all-null", "attachment": "pearl_purple/pearl_purple_03" },
-	{ "name": "pearl_purple/pearl_purple_04", "bone": "all-null", "attachment": "pearl_purple/pearl_purple_04" },
-	{ "name": "pearl_purple/pearl_purple_05", "bone": "all-null", "attachment": "pearl_purple/pearl_purple_05" },
-	{ "name": "pearl_purple/pearl_purple_06", "bone": "all-null", "attachment": "pearl_purple/pearl_purple_06" },
-	{ "name": "pearl_purple/pearl_purple_07", "bone": "all-null", "attachment": "pearl_purple/pearl_purple_07" },
-	{ "name": "pearl_purple/pearl_purple_08", "bone": "all-null", "attachment": "pearl_purple/pearl_purple_08" },
-	{ "name": "pearl_purple/pearl_purple_09", "bone": "all-null", "attachment": "pearl_purple/pearl_purple_09" },
-	{ "name": "pearl_purple/pearl_purple_10", "bone": "all-null", "attachment": "pearl_purple/pearl_purple_10" },
-	{ "name": "pearl_purple/pearl_purple_11", "bone": "all-null", "attachment": "pearl_purple/pearl_purple_11" },
-	{ "name": "pearl_purple/pearl_purple_12", "bone": "all-null", "attachment": "pearl_purple/pearl_purple_12" },
-	{ "name": "pearl_purple/pearl_purple_13", "bone": "all-null", "attachment": "pearl_purple/pearl_purple_13" },
-	{ "name": "pearl_purple/pearl_purple_14", "bone": "all-null", "attachment": "pearl_purple/pearl_purple_14" },
-	{ "name": "pearl_purple/pearl_purple_15", "bone": "all-null", "attachment": "pearl_purple/pearl_purple_15" },
-	{ "name": "pearl_purple/pearl_purple_16", "bone": "all-null", "attachment": "pearl_purple/pearl_purple_16" },
-	{ "name": "pearl_purple/pearl_purple_17", "bone": "all-null", "attachment": "pearl_purple/pearl_purple_17" },
-	{ "name": "pearl_purple/pearl_purple_18", "bone": "all-null", "attachment": "pearl_purple/pearl_purple_18" },
-	{ "name": "pearl_purple/pearl_purple_19", "bone": "all-null", "attachment": "pearl_purple/pearl_purple_19" },
-	{ "name": "pearl_purple/pearl_purple_20", "bone": "all-null", "attachment": "pearl_purple/pearl_purple_20" },
-	{ "name": "pearl_purple/pearl_purple_21", "bone": "all-null", "attachment": "pearl_purple/pearl_purple_21" },
-	{ "name": "pearl_purple/pearl_purple_22", "bone": "all-null", "attachment": "pearl_purple/pearl_purple_22" },
-	{ "name": "pearl_purple/pearl_purple_23", "bone": "all-null", "attachment": "pearl_purple/pearl_purple_23" },
-	{ "name": "pearl_purple/pearl_purple_24", "bone": "all-null", "attachment": "pearl_purple/pearl_purple_24" },
-	{ "name": "pearl_purple/pearl_purple_25", "bone": "all-null", "attachment": "pearl_purple/pearl_purple_25" },
-	{ "name": "pearl_purple/pearl_purple_26", "bone": "all-null", "attachment": "pearl_purple/pearl_purple_26" },
-	{ "name": "pearl_purple/pearl_purple_27", "bone": "all-null", "attachment": "pearl_purple/pearl_purple_27" },
-	{ "name": "pearl_purple/pearl_purple_28", "bone": "all-null", "attachment": "pearl_purple/pearl_purple_28" },
-	{ "name": "pearl_purple/pearl_purple_29", "bone": "all-null", "attachment": "pearl_purple/pearl_purple_29" },
-	{ "name": "s10-particle/s10-particle_00", "bone": "all-null", "color": "c04dffff", "attachment": "s10-particle/s10-particle_29", "blend": "additive" }
+	{ "name": "Multiplier_bg", "bone": "root", "attachment": "Multiplier_bg" },
+	{ "name": "shell_open/shell_open_00", "bone": "root", "attachment": "shell_open/shell_open_00" },
+	{ "name": "shell_open/shell_open_01", "bone": "root", "attachment": "shell_open/shell_open_01" },
+	{ "name": "shell_open/shell_open_02", "bone": "root", "attachment": "shell_open/shell_open_02" },
+	{ "name": "shell_open/shell_open_03", "bone": "root", "attachment": "shell_open/shell_open_03" },
+	{ "name": "shell_open/shell_open_04", "bone": "root", "attachment": "shell_open/shell_open_04" },
+	{ "name": "shell_open/shell_open_05", "bone": "root", "attachment": "shell_open/shell_open_05" },
+	{ "name": "shell_open/shell_open_06", "bone": "root", "attachment": "shell_open/shell_open_06" },
+	{ "name": "shell_open/shell_open_07", "bone": "root", "attachment": "shell_open/shell_open_07" },
+	{ "name": "shell_open/shell_open_08", "bone": "root", "attachment": "shell_open/shell_open_08" },
+	{ "name": "shell_open/shell_open_09", "bone": "root", "attachment": "shell_open/shell_open_09" },
+	{ "name": "shell_open/shell_open_10", "bone": "root", "attachment": "shell_open/shell_open_10" },
+	{ "name": "shell_open/shell_open_11", "bone": "root", "attachment": "shell_open/shell_open_11" },
+	{ "name": "shell_open/shell_open_12", "bone": "root", "attachment": "shell_open/shell_open_12" },
+	{ "name": "shell_open/shell_open_13", "bone": "root", "attachment": "shell_open/shell_open_13" },
+	{ "name": "shell_open/shell_open_14", "bone": "root", "attachment": "shell_open/shell_open_14" },
+	{ "name": "shell_open/shell_open_15", "bone": "root", "attachment": "shell_open/shell_open_15" },
+	{ "name": "shell_open/shell_open_16", "bone": "root", "attachment": "shell_open/shell_open_16" },
+	{ "name": "shell_open/shell_open_17", "bone": "root", "attachment": "shell_open/shell_open_17" },
+	{ "name": "shell_open/shell_open_18", "bone": "root", "attachment": "shell_open/shell_open_18" },
+	{ "name": "shell_open/shell_open_19", "bone": "root", "attachment": "shell_open/shell_open_19" },
+	{ "name": "shell_open/shell_open_20", "bone": "root", "attachment": "shell_open/shell_open_20" },
+	{ "name": "shell_open/shell_open_21", "bone": "root", "attachment": "shell_open/shell_open_21" },
+	{ "name": "shell_open/shell_open_22", "bone": "root", "attachment": "shell_open/shell_open_22" },
+	{ "name": "shell_open/shell_open_23", "bone": "root", "attachment": "shell_open/shell_open_23" },
+	{ "name": "shell_open/shell_open_24", "bone": "root", "attachment": "shell_open/shell_open_24" },
+	{ "name": "shell_open/shell_open_25", "bone": "root", "attachment": "shell_open/shell_open_25" },
+	{ "name": "shell_open/shell_open_26", "bone": "root", "attachment": "shell_open/shell_open_26" },
+	{ "name": "shell_open/shell_open_27", "bone": "root", "attachment": "shell_open/shell_open_27" },
+	{ "name": "shell_open/shell_open_28", "bone": "root", "attachment": "shell_open/shell_open_28" },
+	{ "name": "shell_open/shell_open_29", "bone": "root", "attachment": "shell_open/shell_open_29" },
+	{ "name": "pearl_purple/pearl_purple_00", "bone": "root", "attachment": "pearl_purple/pearl_purple_00" },
+	{ "name": "pearl_purple/pearl_purple_01", "bone": "root", "attachment": "pearl_purple/pearl_purple_01" },
+	{ "name": "pearl_purple/pearl_purple_02", "bone": "root", "attachment": "pearl_purple/pearl_purple_02" },
+	{ "name": "pearl_purple/pearl_purple_03", "bone": "root", "attachment": "pearl_purple/pearl_purple_03" },
+	{ "name": "pearl_purple/pearl_purple_04", "bone": "root", "attachment": "pearl_purple/pearl_purple_04" },
+	{ "name": "pearl_purple/pearl_purple_05", "bone": "root", "attachment": "pearl_purple/pearl_purple_05" },
+	{ "name": "pearl_purple/pearl_purple_06", "bone": "root", "attachment": "pearl_purple/pearl_purple_06" },
+	{ "name": "pearl_purple/pearl_purple_07", "bone": "root", "attachment": "pearl_purple/pearl_purple_07" },
+	{ "name": "pearl_purple/pearl_purple_08", "bone": "root", "attachment": "pearl_purple/pearl_purple_08" },
+	{ "name": "pearl_purple/pearl_purple_09", "bone": "root", "attachment": "pearl_purple/pearl_purple_09" },
+	{ "name": "pearl_purple/pearl_purple_10", "bone": "root", "attachment": "pearl_purple/pearl_purple_10" },
+	{ "name": "pearl_purple/pearl_purple_11", "bone": "root", "attachment": "pearl_purple/pearl_purple_11" },
+	{ "name": "pearl_purple/pearl_purple_12", "bone": "root", "attachment": "pearl_purple/pearl_purple_12" },
+	{ "name": "pearl_purple/pearl_purple_13", "bone": "root", "attachment": "pearl_purple/pearl_purple_13" },
+	{ "name": "pearl_purple/pearl_purple_14", "bone": "root", "attachment": "pearl_purple/pearl_purple_14" },
+	{ "name": "pearl_purple/pearl_purple_15", "bone": "root", "attachment": "pearl_purple/pearl_purple_15" },
+	{ "name": "pearl_purple/pearl_purple_16", "bone": "root", "attachment": "pearl_purple/pearl_purple_16" },
+	{ "name": "pearl_purple/pearl_purple_17", "bone": "root", "attachment": "pearl_purple/pearl_purple_17" },
+	{ "name": "pearl_purple/pearl_purple_18", "bone": "root", "attachment": "pearl_purple/pearl_purple_18" },
+	{ "name": "pearl_purple/pearl_purple_19", "bone": "root", "attachment": "pearl_purple/pearl_purple_19" },
+	{ "name": "pearl_purple/pearl_purple_20", "bone": "root", "attachment": "pearl_purple/pearl_purple_20" },
+	{ "name": "pearl_purple/pearl_purple_21", "bone": "root", "attachment": "pearl_purple/pearl_purple_21" },
+	{ "name": "pearl_purple/pearl_purple_22", "bone": "root", "attachment": "pearl_purple/pearl_purple_22" },
+	{ "name": "pearl_purple/pearl_purple_23", "bone": "root", "attachment": "pearl_purple/pearl_purple_23" },
+	{ "name": "pearl_purple/pearl_purple_24", "bone": "root", "attachment": "pearl_purple/pearl_purple_24" },
+	{ "name": "pearl_purple/pearl_purple_25", "bone": "root", "attachment": "pearl_purple/pearl_purple_25" },
+	{ "name": "pearl_purple/pearl_purple_26", "bone": "root", "attachment": "pearl_purple/pearl_purple_26" },
+	{ "name": "pearl_purple/pearl_purple_27", "bone": "root", "attachment": "pearl_purple/pearl_purple_27" },
+	{ "name": "pearl_purple/pearl_purple_28", "bone": "root", "attachment": "pearl_purple/pearl_purple_28" },
+	{ "name": "pearl_purple/pearl_purple_29", "bone": "root", "attachment": "pearl_purple/pearl_purple_29" },
+	{ "name": "particle/particle_00", "bone": "root", "color": "c24dffff", "attachment": "particle/particle_00", "blend": "additive" },
+	{ "name": "particle/particle_01", "bone": "root", "color": "c24dffff", "attachment": "particle/particle_01", "blend": "additive" },
+	{ "name": "particle/particle_02", "bone": "root", "color": "c24dffff", "attachment": "particle/particle_02", "blend": "additive" },
+	{ "name": "particle/particle_03", "bone": "root", "color": "c24dffff", "attachment": "particle/particle_03", "blend": "additive" },
+	{ "name": "particle/particle_04", "bone": "root", "color": "c24dffff", "attachment": "particle/particle_04", "blend": "additive" },
+	{ "name": "particle/particle_05", "bone": "root", "color": "c24dffff", "attachment": "particle/particle_05", "blend": "additive" },
+	{ "name": "particle/particle_06", "bone": "root", "color": "c24dffff", "attachment": "particle/particle_06", "blend": "additive" },
+	{ "name": "particle/particle_07", "bone": "root", "color": "c24dffff", "attachment": "particle/particle_07", "blend": "additive" },
+	{ "name": "particle/particle_08", "bone": "root", "color": "c24dffff", "attachment": "particle/particle_08", "blend": "additive" },
+	{ "name": "particle/particle_09", "bone": "root", "color": "c24dffff", "attachment": "particle/particle_09", "blend": "additive" },
+	{ "name": "particle/particle_10", "bone": "root", "color": "c24dffff", "attachment": "particle/particle_10", "blend": "additive" },
+	{ "name": "particle/particle_11", "bone": "root", "color": "c24dffff", "attachment": "particle/particle_11", "blend": "additive" },
+	{ "name": "particle/particle_12", "bone": "root", "color": "c24dffff", "attachment": "particle/particle_12", "blend": "additive" },
+	{ "name": "particle/particle_13", "bone": "root", "color": "c24dffff", "attachment": "particle/particle_13", "blend": "additive" },
+	{ "name": "particle/particle_14", "bone": "root", "color": "c24dffff", "attachment": "particle/particle_14", "blend": "additive" },
+	{ "name": "particle/particle_15", "bone": "root", "color": "c24dffff", "attachment": "particle/particle_15", "blend": "additive" },
+	{ "name": "particle/particle_16", "bone": "root", "color": "c24dffff", "attachment": "particle/particle_16", "blend": "additive" },
+	{ "name": "particle/particle_17", "bone": "root", "color": "c24dffff", "attachment": "particle/particle_17", "blend": "additive" },
+	{ "name": "particle/particle_18", "bone": "root", "color": "c24dffff", "attachment": "particle/particle_18", "blend": "additive" },
+	{ "name": "particle/particle_19", "bone": "root", "color": "c24dffff", "attachment": "particle/particle_19", "blend": "additive" },
+	{ "name": "particle/particle_20", "bone": "root", "color": "c24dffff", "attachment": "particle/particle_20", "blend": "additive" },
+	{ "name": "particle/particle_21", "bone": "root", "color": "c24dffff", "attachment": "particle/particle_21", "blend": "additive" },
+	{ "name": "particle/particle_22", "bone": "root", "color": "c24dffff", "attachment": "particle/particle_22", "blend": "additive" },
+	{ "name": "particle/particle_23", "bone": "root", "color": "c24dffff", "attachment": "particle/particle_23", "blend": "additive" },
+	{ "name": "particle/particle_24", "bone": "root", "color": "c24dffff", "attachment": "particle/particle_24", "blend": "additive" },
+	{ "name": "particle/particle_25", "bone": "root", "color": "c24dffff", "attachment": "particle/particle_25", "blend": "additive" },
+	{ "name": "particle/particle_26", "bone": "root", "color": "c24dffff", "attachment": "particle/particle_26", "blend": "additive" },
+	{ "name": "particle/particle_27", "bone": "root", "color": "c24dffff", "attachment": "particle/particle_27", "blend": "additive" },
+	{ "name": "particle/particle_28", "bone": "root", "color": "c24dffff", "attachment": "particle/particle_28", "blend": "additive" },
+	{ "name": "particle/particle_29", "bone": "root", "color": "c24dffff", "attachment": "particle/particle_29", "blend": "additive" }
 ],
 "skins": [
 	{
@@ -83,6 +102,96 @@
 		"attachments": {
 			"Multiplier_bg": {
 				"Multiplier_bg": { "width": 110, "height": 110 }
+			},
+			"particle/particle_00": {
+				"particle/particle_00": { "width": 110, "height": 110 }
+			},
+			"particle/particle_01": {
+				"particle/particle_01": { "width": 110, "height": 110 }
+			},
+			"particle/particle_02": {
+				"particle/particle_02": { "width": 110, "height": 110 }
+			},
+			"particle/particle_03": {
+				"particle/particle_03": { "width": 110, "height": 110 }
+			},
+			"particle/particle_04": {
+				"particle/particle_04": { "width": 110, "height": 110 }
+			},
+			"particle/particle_05": {
+				"particle/particle_05": { "width": 110, "height": 110 }
+			},
+			"particle/particle_06": {
+				"particle/particle_06": { "width": 110, "height": 110 }
+			},
+			"particle/particle_07": {
+				"particle/particle_07": { "width": 110, "height": 110 }
+			},
+			"particle/particle_08": {
+				"particle/particle_08": { "width": 110, "height": 110 }
+			},
+			"particle/particle_09": {
+				"particle/particle_09": { "width": 110, "height": 110 }
+			},
+			"particle/particle_10": {
+				"particle/particle_10": { "width": 110, "height": 110 }
+			},
+			"particle/particle_11": {
+				"particle/particle_11": { "width": 110, "height": 110 }
+			},
+			"particle/particle_12": {
+				"particle/particle_12": { "width": 110, "height": 110 }
+			},
+			"particle/particle_13": {
+				"particle/particle_13": { "width": 110, "height": 110 }
+			},
+			"particle/particle_14": {
+				"particle/particle_14": { "width": 110, "height": 110 }
+			},
+			"particle/particle_15": {
+				"particle/particle_15": { "width": 110, "height": 110 }
+			},
+			"particle/particle_16": {
+				"particle/particle_16": { "width": 110, "height": 110 }
+			},
+			"particle/particle_17": {
+				"particle/particle_17": { "width": 110, "height": 110 }
+			},
+			"particle/particle_18": {
+				"particle/particle_18": { "width": 110, "height": 110 }
+			},
+			"particle/particle_19": {
+				"particle/particle_19": { "width": 110, "height": 110 }
+			},
+			"particle/particle_20": {
+				"particle/particle_20": { "width": 110, "height": 110 }
+			},
+			"particle/particle_21": {
+				"particle/particle_21": { "width": 110, "height": 110 }
+			},
+			"particle/particle_22": {
+				"particle/particle_22": { "width": 110, "height": 110 }
+			},
+			"particle/particle_23": {
+				"particle/particle_23": { "width": 110, "height": 110 }
+			},
+			"particle/particle_24": {
+				"particle/particle_24": { "width": 110, "height": 110 }
+			},
+			"particle/particle_25": {
+				"particle/particle_25": { "width": 110, "height": 110 }
+			},
+			"particle/particle_26": {
+				"particle/particle_26": { "width": 110, "height": 110 }
+			},
+			"particle/particle_27": {
+				"particle/particle_27": { "width": 110, "height": 110 }
+			},
+			"particle/particle_28": {
+				"particle/particle_28": { "width": 110, "height": 110 }
+			},
+			"particle/particle_29": {
+				"particle/particle_29": { "width": 110, "height": 110 }
 			},
 			"pearl_purple/pearl_purple_00": {
 				"pearl_purple/pearl_purple_00": { "width": 110, "height": 110 }
@@ -173,38 +282,6 @@
 			},
 			"pearl_purple/pearl_purple_29": {
 				"pearl_purple/pearl_purple_29": { "width": 110, "height": 110 }
-			},
-			"s10-particle/s10-particle_00": {
-				"s10-particle/s10-particle_00": { "width": 110, "height": 110 },
-				"s10-particle/s10-particle_01": { "width": 110, "height": 110 },
-				"s10-particle/s10-particle_02": { "width": 110, "height": 110 },
-				"s10-particle/s10-particle_03": { "width": 110, "height": 110 },
-				"s10-particle/s10-particle_04": { "width": 110, "height": 110 },
-				"s10-particle/s10-particle_05": { "width": 110, "height": 110 },
-				"s10-particle/s10-particle_06": { "width": 110, "height": 110 },
-				"s10-particle/s10-particle_07": { "width": 110, "height": 110 },
-				"s10-particle/s10-particle_08": { "width": 110, "height": 110 },
-				"s10-particle/s10-particle_09": { "width": 110, "height": 110 },
-				"s10-particle/s10-particle_10": { "width": 110, "height": 110 },
-				"s10-particle/s10-particle_11": { "width": 110, "height": 110 },
-				"s10-particle/s10-particle_12": { "width": 110, "height": 110 },
-				"s10-particle/s10-particle_13": { "width": 110, "height": 110 },
-				"s10-particle/s10-particle_14": { "width": 110, "height": 110 },
-				"s10-particle/s10-particle_15": { "width": 110, "height": 110 },
-				"s10-particle/s10-particle_16": { "width": 110, "height": 110 },
-				"s10-particle/s10-particle_17": { "width": 110, "height": 110 },
-				"s10-particle/s10-particle_18": { "width": 110, "height": 110 },
-				"s10-particle/s10-particle_19": { "width": 110, "height": 110 },
-				"s10-particle/s10-particle_20": { "width": 110, "height": 110 },
-				"s10-particle/s10-particle_21": { "width": 110, "height": 110 },
-				"s10-particle/s10-particle_22": { "width": 110, "height": 110 },
-				"s10-particle/s10-particle_23": { "width": 110, "height": 110 },
-				"s10-particle/s10-particle_24": { "width": 110, "height": 110 },
-				"s10-particle/s10-particle_25": { "width": 110, "height": 110 },
-				"s10-particle/s10-particle_26": { "width": 110, "height": 110 },
-				"s10-particle/s10-particle_27": { "width": 110, "height": 110 },
-				"s10-particle/s10-particle_28": { "width": 110, "height": 110 },
-				"s10-particle/s10-particle_29": { "width": 110, "height": 110 }
 			},
 			"shell_open/shell_open_00": {
 				"shell_open/shell_open_00": { "width": 110, "height": 110 }
@@ -302,6 +379,211 @@
 "animations": {
 	"highlight": {
 		"slots": {
+			"particle/particle_00": {
+				"attachment": [
+					{ "time": 0.0333, "name": null }
+				]
+			},
+			"particle/particle_01": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.0333, "name": "particle/particle_01" },
+					{ "time": 0.0667, "name": null }
+				]
+			},
+			"particle/particle_02": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.0667, "name": "particle/particle_02" },
+					{ "time": 0.1, "name": null }
+				]
+			},
+			"particle/particle_03": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.1, "name": "particle/particle_03" },
+					{ "time": 0.1333, "name": null }
+				]
+			},
+			"particle/particle_04": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.1333, "name": "particle/particle_04" },
+					{ "time": 0.1667, "name": null }
+				]
+			},
+			"particle/particle_05": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.1667, "name": "particle/particle_05" },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"particle/particle_06": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.2, "name": "particle/particle_06" },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"particle/particle_07": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.2333, "name": "particle/particle_07" },
+					{ "time": 0.2667, "name": null }
+				]
+			},
+			"particle/particle_08": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.2667, "name": "particle/particle_08" },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"particle/particle_09": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.3, "name": "particle/particle_09" },
+					{ "time": 0.3333, "name": null }
+				]
+			},
+			"particle/particle_10": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.3333, "name": "particle/particle_10" },
+					{ "time": 0.3667, "name": null }
+				]
+			},
+			"particle/particle_11": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.3667, "name": "particle/particle_11" },
+					{ "time": 0.4, "name": null }
+				]
+			},
+			"particle/particle_12": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.4, "name": "particle/particle_12" },
+					{ "time": 0.4333, "name": null }
+				]
+			},
+			"particle/particle_13": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.4333, "name": "particle/particle_13" },
+					{ "time": 0.4667, "name": null }
+				]
+			},
+			"particle/particle_14": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.4667, "name": "particle/particle_14" },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"particle/particle_15": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.5, "name": "particle/particle_15" },
+					{ "time": 0.5333, "name": null }
+				]
+			},
+			"particle/particle_16": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.5333, "name": "particle/particle_16" },
+					{ "time": 0.5667, "name": null }
+				]
+			},
+			"particle/particle_17": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.5667, "name": "particle/particle_17" },
+					{ "time": 0.6, "name": null }
+				]
+			},
+			"particle/particle_18": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6, "name": "particle/particle_18" },
+					{ "time": 0.6333, "name": null }
+				]
+			},
+			"particle/particle_19": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6333, "name": "particle/particle_19" },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"particle/particle_20": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": "particle/particle_20" },
+					{ "time": 0.7, "name": null }
+				]
+			},
+			"particle/particle_21": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.7, "name": "particle/particle_21" },
+					{ "time": 0.7333, "name": null }
+				]
+			},
+			"particle/particle_22": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.7333, "name": "particle/particle_22" },
+					{ "time": 0.7667, "name": null }
+				]
+			},
+			"particle/particle_23": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.7667, "name": "particle/particle_23" },
+					{ "time": 0.8, "name": null }
+				]
+			},
+			"particle/particle_24": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8, "name": "particle/particle_24" },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"particle/particle_25": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": "particle/particle_25" },
+					{ "time": 0.8667, "name": null }
+				]
+			},
+			"particle/particle_26": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8667, "name": "particle/particle_26" },
+					{ "time": 0.9, "name": null }
+				]
+			},
+			"particle/particle_27": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.9, "name": "particle/particle_27" },
+					{ "time": 0.9333, "name": null }
+				]
+			},
+			"particle/particle_28": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.9333, "name": "particle/particle_28" }
+				]
+			},
+			"particle/particle_29": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
 			"pearl_purple/pearl_purple_00": {
 				"attachment": [
 					{ "time": 0.0333, "name": null }
@@ -507,40 +789,6 @@
 				"attachment": [
 					{ "name": null },
 					{ "time": 0.9667, "name": "pearl_purple/pearl_purple_29" }
-				]
-			},
-			"s10-particle/s10-particle_00": {
-				"attachment": [
-					{ "name": "s10-particle/s10-particle_00" },
-					{ "time": 0.0333, "name": "s10-particle/s10-particle_01" },
-					{ "time": 0.0667, "name": "s10-particle/s10-particle_02" },
-					{ "time": 0.1, "name": "s10-particle/s10-particle_03" },
-					{ "time": 0.1333, "name": "s10-particle/s10-particle_04" },
-					{ "time": 0.1667, "name": "s10-particle/s10-particle_05" },
-					{ "time": 0.2, "name": "s10-particle/s10-particle_06" },
-					{ "time": 0.2333, "name": "s10-particle/s10-particle_07" },
-					{ "time": 0.2667, "name": "s10-particle/s10-particle_08" },
-					{ "time": 0.3, "name": "s10-particle/s10-particle_09" },
-					{ "time": 0.3333, "name": "s10-particle/s10-particle_10" },
-					{ "time": 0.3667, "name": "s10-particle/s10-particle_11" },
-					{ "time": 0.4, "name": "s10-particle/s10-particle_12" },
-					{ "time": 0.4333, "name": "s10-particle/s10-particle_13" },
-					{ "time": 0.4667, "name": "s10-particle/s10-particle_14" },
-					{ "time": 0.5, "name": "s10-particle/s10-particle_15" },
-					{ "time": 0.5333, "name": "s10-particle/s10-particle_16" },
-					{ "time": 0.5667, "name": "s10-particle/s10-particle_17" },
-					{ "time": 0.6, "name": "s10-particle/s10-particle_18" },
-					{ "time": 0.6333, "name": "s10-particle/s10-particle_19" },
-					{ "time": 0.6667, "name": "s10-particle/s10-particle_20" },
-					{ "time": 0.7, "name": "s10-particle/s10-particle_21" },
-					{ "time": 0.7333, "name": "s10-particle/s10-particle_22" },
-					{ "time": 0.7667, "name": "s10-particle/s10-particle_23" },
-					{ "time": 0.8, "name": "s10-particle/s10-particle_24" },
-					{ "time": 0.8333, "name": "s10-particle/s10-particle_25" },
-					{ "time": 0.8667, "name": "s10-particle/s10-particle_26" },
-					{ "time": 0.9, "name": "s10-particle/s10-particle_27" },
-					{ "time": 0.9333, "name": "s10-particle/s10-particle_28" },
-					{ "time": 0.9667, "name": "s10-particle/s10-particle_29" }
 				]
 			},
 			"shell_open/shell_open_00": {
@@ -754,6 +1002,156 @@
 	},
 	"idle": {
 		"slots": {
+			"particle/particle_00": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"particle/particle_01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"particle/particle_02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"particle/particle_03": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"particle/particle_04": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"particle/particle_05": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"particle/particle_06": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"particle/particle_07": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"particle/particle_08": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"particle/particle_09": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"particle/particle_10": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"particle/particle_11": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"particle/particle_12": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"particle/particle_13": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"particle/particle_14": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"particle/particle_15": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"particle/particle_16": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"particle/particle_17": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"particle/particle_18": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"particle/particle_19": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"particle/particle_20": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"particle/particle_21": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"particle/particle_22": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"particle/particle_23": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"particle/particle_24": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"particle/particle_25": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"particle/particle_26": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"particle/particle_27": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"particle/particle_28": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"particle/particle_29": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
 			"pearl_purple/pearl_purple_00": {
 				"attachment": [
 					{ "name": null }
@@ -895,11 +1293,6 @@
 				]
 			},
 			"pearl_purple/pearl_purple_28": {
-				"attachment": [
-					{ "name": null }
-				]
-			},
-			"s10-particle/s10-particle_00": {
 				"attachment": [
 					{ "name": null }
 				]

@@ -11,7 +11,7 @@
     "_fntConfig": {
       "commonHeight": 47,
       "fontSize": 47,
-      "atlasName": "/Users/neil.lu/projects/Slotgame-One-Day-In-Paradise/font-bitmap\\font-multiplier.png",
+      "atlasName": "font-multiplier.png",
       "fontDefDictionary": {
         "9": {
           "rect": {
